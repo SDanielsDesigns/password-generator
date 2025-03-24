@@ -1,0 +1,29 @@
+.generateButton{
+    display: flex;
+    background-color: rgb(40, 32, 150);
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 0 25px 0 25px;
+    color: rgb(255, 255, 255);
+    height: 70px;
+    width: 50%;
+    padding: 10px;
+    
+}
+h1{
+    color: rgb(40, 32, 150);
+    text-align: center;
+}
+body{
+    background-color: burlywood;
+    background-size: 100%;
+}
+.passwordGenerator{
+    margin: auto;
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 25px;
+    height: 250px;
+    width: 200px;
+    text-align: center;
+}
