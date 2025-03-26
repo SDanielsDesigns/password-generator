@@ -1,0 +1,43 @@
+h1{
+    color: white;
+    text-align: center;
+}
+body{
+    background-image: url(./cyber-bg.jpg);
+    background-size: cover;
+     background-repeat: no-repeat;
+     width: 100vw;
+     height: 100vh;
+    
+}
+.passwordGenerator{
+    position: relative;
+    border: 5px solid rgba(20, 20, 20, 0.3);
+    border-radius: 25px;
+    height: 40%;
+    width: 40%;
+    text-align: center;
+    margin: auto;
+    background-color: rgba(47, 48, 47, 0.6);
+    color: white;
+
+
+}
+button{
+    border: 10px solid rgb(0, 159, 159);
+    border-radius: 0 25px 0 25px; 
+    margin-bottom: 25px;
+    background-color: rgb(9, 255, 0);
+
+}
+textarea{
+    background-color:rgb(0, 159, 159) ;
+    resize: none;
+    text-align: center;
+    font-size: 15pt;
+}
+.signature{
+    position: relative;
+    margin-top: 50px;
+
+}
